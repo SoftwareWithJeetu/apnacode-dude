@@ -2,4 +2,4 @@
 This is my first git repository
 
 <br>
-Author - Jeetu Ji
+<h3>Author - Jeetu Ji</h3>
